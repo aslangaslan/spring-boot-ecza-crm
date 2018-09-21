@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<body>
+    <div th:fragment="actionToolbar" th:with="url=${url}">
+        <a th:href="${url}" class="btn btn-primary">Add</a>
+    </div>
+</body>
+</html>

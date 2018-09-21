@@ -1,0 +1,10 @@
+com/farukecza/eczacrm/service/ServiceBase.class
+com/farukecza/eczacrm/controller/HomeContoller.class
+com/farukecza/eczacrm/entity/Product.class
+com/farukecza/eczacrm/entity/Stock.class
+com/farukecza/eczacrm/EczaCrmApplication.class
+com/farukecza/eczacrm/controller/CategoryController.class
+com/farukecza/eczacrm/service/CategoryService.class
+com/farukecza/eczacrm/entity/Producer.class
+com/farukecza/eczacrm/entity/Category.class
+com/farukecza/eczacrm/repository/CategoryRepository.class
